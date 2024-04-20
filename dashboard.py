@@ -652,7 +652,7 @@ selection = st.sidebar.radio(
 # Action based on selection
 if selection == "Modeling Churn Dataset":
     page1()
-elif selection == "Visualization Dataset":
+elif selection == "Dataset Visualisasi Churn":
     page2()
 elif selection == "Predict Your Data ":
     page3()
