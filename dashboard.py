@@ -10,7 +10,7 @@ from xgboost import XGBClassifier
 from sklearn.ensemble import BaggingClassifier
 from sklearn.metrics import confusion_matrix, classification_report
 
-st.set_option('deprecation.showPyplotGlobalUse', False)
+
 
 st.set_page_config(page_title="Churn Prediction"  , page_icon="📈")
 
